@@ -106,7 +106,7 @@ body {
     background-image: url('/img/luciernagas.jpg');
     background-size: cover; /* Hace que la imagen cubra todo el área */
     background-position: center; /* Centra la imagen
-    /* background-repeat: no-repeat; Evita que la imagen se repita */ */
+    /* background-repeat: no-repeat; Evita que la imagen se repita */ 
 }
 
 .flowers {
@@ -1662,5 +1662,3 @@ h1 {
       font-size: 2em;
   }
 }
-
-/* Agregar más estilos según sea necesario */
